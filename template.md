@@ -1,17 +1,16 @@
-# Work Log — 2026-04-27
+# Work Log - {DATE}
 
 ## Summary
 Brief overview of what was worked on today.
-
 ---
 
-## 09:00 – 11:00
-- Task: 
+## 09:00 - 11:00
+- Task:  Review Annotation_Guidebook_Oil_Gas_v1.3.docx
 
-## 12:00 – 14:00
+## 12:00 - 14:00
 - Task:
 
-## 13:00 – 16:00
+## 13:00 - 16:00
 - Task:
 
 ---
