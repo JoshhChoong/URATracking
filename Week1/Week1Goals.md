@@ -6,3 +6,5 @@
 - Skim ifrs-s2-comparison-tcfd.pdf
 - Read ifrs-s2-climate-related-disclosures.pdf
 - Read HES 2018.pdf and take notes on its structure
+
+- Task: PDF Structure Analysis Script 
